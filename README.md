@@ -11,6 +11,8 @@ Use otu_ids as the labels for the bar chart.
 Use otu_labels as the hovertext for the chart.
 
 bar Chart
+![image](https://github.com/spencerduke21/belly-button-challenge/assets/120142886/469cc45e-dee5-403f-ab1c-771e2df764d8)
+
 
 Create a bubble chart that displays each sample.
 
